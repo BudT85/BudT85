@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Information Sciences
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me budtodd2@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I am new to the coding world
 
 <!---
